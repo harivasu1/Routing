@@ -1,0 +1,26 @@
+.class1{
+  background-color: cyan;
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.class1 li{
+  display: inline-block;
+  padding: 20px;
+  font-size: 20px;
+}
+
+.class2{
+  background-color: cyan;
+  list-style-type: none;
+  text-align: center;
+  margin: 0;  
+}
+
+.class2 li{
+  display: block;
+  padding: 20px;
+}
+
